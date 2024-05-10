@@ -1,0 +1,3 @@
+﻿  NumerosArray.cpp
+C:\Users\marif\OneDrive\Documentos\Validacion_Numeros\Validacion_Numeros\NumerosArray.cpp(56,6): warning C4101: 's': variable local sin referencia
+  Validacion_Numeros.vcxproj -> C:\Users\marif\OneDrive\Documentos\Validacion_Numeros\x64\Debug\Validacion_Numeros.exe
